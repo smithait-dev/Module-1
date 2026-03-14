@@ -1,0 +1,10 @@
+Charlie="10 Decemeber 2010"
+Oliver="19 December 2010"
+Tom="29 July 2011"
+Isaac="23 November 2010"
+Pranav="23 December 2023"
+print("Charlie's birthday is",Charlie)
+print("Oliver's birthday is",Oliver)
+print("Tom's birthday is",Tom)
+print("Isaac's birthday is",Isaac)
+print("Pranav's birthday is",Pranav)
